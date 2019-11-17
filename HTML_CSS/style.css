@@ -1,0 +1,17 @@
+li{
+    display: inline-block;
+    background-color: cornflowerblue;
+    padding: 5px;
+    width: 300px;
+    vertical-align: top
+}
+ul{
+    background-color: chocolate;
+    text-align: center;
+    padding: 0px;
+    vertical-align: top
+}
+
+.main_header {
+    text-align: center
+}

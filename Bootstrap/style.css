@@ -1,11 +1,9 @@
 
 .first-row {
-    background-color: brown;
 }
 
 .footer {
     display: flex;
-    background-color: aqua;
     flex-grow: 1;
     align-content: center;
 }
@@ -18,5 +16,11 @@ body {
 
 
 .align-self-end {
-    background-color: chartreuse;
+    background-color:coral;
+    width:100%;
+    text-align: center;
+}
+
+.col-12 {
+    text-align: center;
 }
